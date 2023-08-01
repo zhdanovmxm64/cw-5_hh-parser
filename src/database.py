@@ -3,3 +3,8 @@ import os
 
 from src.config import config
 from src.vacancy import Vacancy
+
+class DataBase:
+    '''
+    Класс базы данных
+    '''
